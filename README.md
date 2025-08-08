@@ -1,6 +1,10 @@
 ## About me
 - Bachelor's in Engineering Physics at Tecnológico de Monterrey.
-- Second-year master's student in Quantum Technology focusing on quantum computing, quantum error correction, and machine learning at KTH Royal Institute of Technology.
+- Second-year master's student in Quantum Technology at KTH Royal Institute of Technology.
+- My research interests include
+  - quantum computing,
+  - quantum error correction, and
+  - (classical and quantum) machine learning.
 - Currently based in Stockholm, Sweden.
 
 ## What I'm focusing on
