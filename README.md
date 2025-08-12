@@ -1,5 +1,5 @@
 ## About me
-I am a graduate student specializing in **quantum technology**, with a strong interest in the connection between mathematics and physics. My main research interests include:
+I am a graduate student specializing in **quantum technology**, with a strong interest in mathematics, physics, and artificial intelligence. My main research interests include:
   - Quantum computing.
   - Quantum error correction.
   - Classical and quantum machine learning.
