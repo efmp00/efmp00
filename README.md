@@ -7,7 +7,7 @@ I am a graduate student specializing in **quantum technology**, with a strong in
 I am currently based in Stockholm, pursuing a master's degree in Engineering Physics at KTH Royal Institute of Technology.
 
 ## What I'm focusing on
-From August to December 2025, I will be working on the **barren plateau problem** in the training of quantum neural networks, exploring how **classical surrogates** can be leveraged to mitigate this problem [[1]](https://arxiv.org/pdf/2206.11740). I am also interested in **quantum error correction**, particularly in the combination of **machine learning** and **topological codes** to develop more efficient encoding procedures [[2]](https://www.nature.com/articles/s41586-024-08148-8). 
+From August to December 2025, I will be working on the **barren plateau problem** in the training of quantum neural networks, exploring how **classical surrogates** can be leveraged to mitigate this problem [[1]](https://arxiv.org/pdf/2206.11740). I am also interested in **quantum error correction**, particularly in the combination of **machine learning**, **topological codes** to develop more efficient encoding procedures [[2]](https://www.nature.com/articles/s41586-024-08148-8), and **quantum low-density parity check codes** (qLDPC). 
 
 ## Other interests
 Beyond my main interests, I enjoy studying the mathematical formalism behind theoretical physics — from C*-algebras in quantum information theory to differential and Riemannian geometry in general relativity and cosmology. I also have a deep interest in **real and complex analysis**, and, given my focus in QEC, I am keen to learn about algebraic topology.
